@@ -1,5 +1,4 @@
-## Hey y'all
-## I'm Julian Sedano 🥷
+# Hey Y'all, I'm Julian Sedano🥷
 ### Full Stack Web Developer in progress⏳
 
 ### Short story about me:
