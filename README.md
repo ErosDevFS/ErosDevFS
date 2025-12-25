@@ -1,9 +1,9 @@
-##Hey y'all
-##I'm Julian Sedano 🥷
-###Full Stack Web Developer in progress⏳
+## Hey y'all
+## I'm Julian Sedano 🥷
+### Full Stack Web Developer in progress⏳
 
-###Short story about me:
-####“I started programming seriously when I was 15. I took a couple of important courses for my career. One of them was Master in Python: Python 3 (Django and Flask). I remember how much I enjoyed this course because Python was so easy to understand and write; it gave me a real sense of freedom when coding.
+### Short story about me:
+#### I started programming seriously when I was 15. I took a couple of important courses for my career. One of them was Master in Python: Python 3 (Django and Flask). I remember how much I enjoyed this course because Python was so easy to understand and write; it gave me a real sense of freedom when coding.
 
 <!--
 **ErosDevFS/ErosDevFS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
