@@ -23,7 +23,8 @@
 
 ## Currently:
 🧑‍💻 I'm currently working on my portfolio  
-🧠 learning more about ReactJS
+🧠 Learning more about ReactJS  
+🧱 Working on some personal projects
 
 
 ## 
