@@ -26,8 +26,9 @@
 🧠 learning more about ReactJS
 
 
-## -
-📫 How to reach me: Email = Ignovigenz@hotmail.com
+## 
+📫 How to reach me:  
+Email: Ignovigenz@hotmail.com
 
 
 
