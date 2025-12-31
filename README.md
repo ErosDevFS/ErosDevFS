@@ -21,9 +21,9 @@
 - ReactJS 
 
 ## Currently:
--🧑‍💻 I'm currently working on my portfolio 
--🧠 I'm currently learning more about ReactJS 
--📫 How to reach me: Email = Ignovigenz@hotmail.com
+🧑‍💻 I'm currently working on my portfolio  
+🧠 I'm currently learning more about ReactJS  
+📫 How to reach me: Email = Ignovigenz@hotmail.com
 
 
 
