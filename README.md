@@ -1,6 +1,8 @@
 # Hey Y'all, I'm Julian Sedano🥷
-### [![FullStack](https://img.shields.io/badge/coverage-95%25-orange)] Web Developer in progress⏳
 
+```bash
+  FullStack Web Developer in progress⏳
+```
 
 
 ### Short story about me:
