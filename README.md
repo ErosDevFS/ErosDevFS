@@ -1,7 +1,7 @@
 # Hey Y'all, I'm Julian Sedano🥷
-### FullStack  https://img.shields.io/badge/coverage-95%25-orange Web Developer in progress⏳
+### [![FullStack](https://img.shields.io/badge/coverage-95%25-orange)] Web Developer in progress⏳
 
-[![AGPL License](https://img.shields.io/badge/license-AGPL-blue.svg)](http://www.gnu.org/licenses/agpl-3.0)
+
 
 ### Short story about me:
 #### I started programming seriously when I was 15. I took a couple of important courses for my career. One of them was Master in Python: Python 3 (Django and Flask). I remember how much I enjoyed this course because Python was so easy to understand and write; it gave me a real sense of freedom when coding.
