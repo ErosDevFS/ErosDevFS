@@ -1,4 +1,4 @@
-# Hey Y'all, I'm Julian Sedano🥷
+# Hey there! I'm Julian Sedano🥷
 
 
 ## 🚀 About Me
