@@ -33,7 +33,9 @@
 
 ## Currently:
 🧑‍💻 I'm currently working on my portfolio  
+
 🧠 Learning about creation of APIS
+
 🧱 Working on some personal projects
 
 
