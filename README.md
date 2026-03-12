@@ -4,7 +4,7 @@
 ## 🚀 About Me
 
 ```bash
-  FullStack Web Developer in progress⏳
+  FullStack Web Developer
 ```
 
 
@@ -12,18 +12,28 @@
 #### I started programming seriously when I was 15. I took a couple of important courses for my career. One of them was Master in Python: Python 3 (Django and Flask). I remember how much I enjoyed this course because Python was so easy to understand and write; it gave me a real sense of freedom when coding.
 
 ## 🛠 Skills
+###Frontend
+
 - Javascript
 - HTML 
 - CSS 
 - Boostrap
-- Git & Git Hub 
-- Python 3(Djando, Flask & Tkinter) 
-- PHP 
+- TailwindCss
 - ReactJS 
+
+###Backend
+- Postman
+- Git & Git Hub 
+- Python 3(Django, Flask & Tkinter) 
+- PHP
+- PostgreSQL
+- MongoDB
+- API Integration & Creation
+
 
 ## Currently:
 🧑‍💻 I'm currently working on my portfolio  
-🧠 Learning more about ReactJS  
+🧠 Learning about creation of APIS
 🧱 Working on some personal projects
 
 
