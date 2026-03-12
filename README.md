@@ -12,7 +12,7 @@
 #### I started programming seriously when I was 15. I took a couple of important courses for my career. One of them was Master in Python: Python 3 (Django and Flask). I remember how much I enjoyed this course because Python was so easy to understand and write; it gave me a real sense of freedom when coding.
 
 ## 🛠 Skills
-###Frontend
+### Frontend
 
 - Javascript
 - HTML 
@@ -21,7 +21,7 @@
 - TailwindCss
 - ReactJS 
 
-###Backend
+### Backend
 - Postman
 - Git & Git Hub 
 - Python 3(Django, Flask & Tkinter) 
